@@ -1,1 +1,14 @@
 /* your code */
+table{
+	background-color:#FFFFFF;
+	border-radius:4px;
+}
+thead{
+	background-color:#215A8E;
+}
+th{
+	color:white;
+}
+.color-row{
+	background-color:#DDDDDD;
+}
