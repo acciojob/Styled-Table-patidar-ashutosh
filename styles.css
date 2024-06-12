@@ -1,13 +1,19 @@
 /* your code */
 table{
+	width: 100vw;
 	background-color:#FFFFFF;
-	border-radius:4px;
+	text-align: left;
+	border-collapse: collapse;
 }
 thead{
 	background-color:#215A8E;
 }
 th{
 	color:white;
+	padding: 10px;
+}
+td{
+	padding: 10px;
 }
 .color-row{
 	background-color:#DDDDDD;
